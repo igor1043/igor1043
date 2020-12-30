@@ -81,6 +81,13 @@
     <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
 </p>
 
+-<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, Desenvolvendo e Participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e de realizaçao de eventos realizados, como a .</h4>
+
+-<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
+
+-<h4>E como Hobbie, estudo e pratico modelagem 3d.</h4>
+
+
 - <h3>📫 Onde você pode me encontrar:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/whalyf/" rel="nofollow">
