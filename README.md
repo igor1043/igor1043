@@ -86,7 +86,7 @@
 -<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 <p align="center">
   <a href="#" rel="nofollow">
-    <img src="icones/desing/photoshop.svg" alt="js" style="max-width:100%;">
+    <img src="icones/desing/photoshop.png" alt="js" style="max-width:100%;">
   </a>
 
 </p>
