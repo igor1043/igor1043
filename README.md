@@ -81,26 +81,31 @@
     <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
 </p>
 
--<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, Desenvolvendo e Participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e de realizaçao de eventos realizados, como a .</h4>
+-<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, Desenvolvendo e Participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos realizados, como a .</h4>
 
 -<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 
--<h4>E como Hobbie, estudo e pratico modelagem 3d.</h4>
+-<h4>E como Hobbie, estudo modelagem 3d.</h4>
+
+-<h4>.</h4>
 
 
 - <h3>📫 Onde você pode me encontrar:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/whalyf/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+    <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
   </a>
-  <a href="https://twitter.com/whalyf1" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="max-width:100%;">
+  <a href="https://twitter.com/Igorvin1043" rel="nofollow">
+    <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
   </a>
-  <a href="https://www.instagram.com/whalyf1/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+    <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
   </a>
-    <a href="https://www.instagram.com/whalyf1/" rel="nofollow">
-    <img src="icones/whatsapp.svg" alt="Instagram" style="max-width:100%;">
+    <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
+    <img src="icones/Social/twitter.svg" alt="Instagram" style="max-width:100%;">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5577992053140&text=Meu%20perfil%20no%20Whatsapp" rel="nofollow">
+    <img src="icones/Social/whatsapp.svg" alt="Instagram" style="max-width:100%;">
   </a>
 
 </p>
