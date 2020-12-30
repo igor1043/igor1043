@@ -2,7 +2,7 @@
 
 - <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 
-- <h3>🌱 Essas são algumas Linguagens que já trabalhei e atualmente estudo</h3>
+- <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo</h3>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/c.png" alt="JS" style="max-width:100%;">
@@ -15,6 +15,8 @@
   </a>  <a href="#" rel="nofollow">
     <img src="icones/js.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
+    <img src="icones/html.svg" alt="JS" style="max-width:100%;">
+  </a>  <a href="#" rel="nofollow">
     <img src="icones/php.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/dart.svg" alt="JS" style="max-width:100%;">
@@ -23,10 +25,7 @@
   </a>
 </p>
 
-
-
-
-- <h3>🌱 E desenvolvo nas seguintes Frameworks.</h3>
+- <h3> Já desenvolvi e desenvolvo nas seguintes Frameworks.</h3>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/angular.svg" alt="js" style="max-width:100%;">
@@ -34,8 +33,14 @@
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/bootstrap.svg" alt="js" style="max-width:100%;">
   </a>
+   <a href="#" rel="nofollow">
+    <img src="icones/Frameworks/flutter.svg" alt="js" style="max-width:100%;">
+  </a> 
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/ionic.svg" alt="js" style="max-width:100%;">
+  </a>
+  <a href="#" rel="nofollow">
+    <img src="icones/Frameworks/jquerry.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/laravel.svg" alt="js" style="max-width:100%;">
@@ -52,6 +57,27 @@
     <a href="#" rel="nofollow">
     <img src="icones/Frameworks/unity.svg" alt="js" style="max-width:100%;">
   </a>
+</p>
+
+- <h3> E trabalho com algumas ferramentas como:.</h3>
+<p align="center">
+  <a href="#" rel="nofollow">
+    <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
+  </a>
+  <a href="#" rel="nofollow">
+    <img src="icones/Tools/bash.svg" alt="js" style="max-width:100%;">
+  </a>
+   <a href="#" rel="nofollow">
+    <img src="icones/Tools/eclipse.svg" alt="js" style="max-width:100%;">
+  </a> 
+  <a href="#" rel="nofollow">
+    <img src="icones/Tools/powershell.svg" alt="js" style="max-width:100%;">
+  </a>
+  <a href="#" rel="nofollow">
+    <img src="icones/Tools/visualstudio.svg" alt="js" style="max-width:100%;">
+  </a>
+  <a href="#" rel="nofollow">
+    <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
 </p>
 
 - <h3>📫 Onde você pode me encontrar:</h3>
