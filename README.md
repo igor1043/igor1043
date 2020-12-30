@@ -92,16 +92,16 @@
 
 - <h3>📫 Onde você pode me encontrar:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+  <a href=""mailto:someone@microsoft.com?subject=Hello%20again"> Send Mail " rel="nofollow">
     <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
   </a>
-  <a href="https://twitter.com/Igorvin1043" rel="nofollow">
+  <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
     <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
   </a>
   <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
   </a>
-    <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
+    <a href="https://twitter.com/Igorvin1043" rel="nofollow">
     <img src="icones/Social/twitter.svg" alt="Instagram" style="max-width:100%;">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5577992053140&text=Meu%20perfil%20no%20Whatsapp" rel="nofollow">
