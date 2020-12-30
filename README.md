@@ -1,6 +1,7 @@
 <h2> Olá 👋</h2>
 
 - <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
+-<h2>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h2>
 
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo</h3>
 <p align="center">
@@ -40,7 +41,7 @@
     <img src="icones/Frameworks/ionic.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/jquerry.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/jquery.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/laravel.svg" alt="js" style="max-width:100%;">
