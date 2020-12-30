@@ -29,28 +29,28 @@
 - <h3>🌱 E desenvolvo nas seguintes Frameworks.</h3>
 <p align="center">
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/angular.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/angular.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/bootstrap.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/bootstrap.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/ionic.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/ionic.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/laravel.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/laravel.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/nodejs.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/nodejs.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/qt.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/qt.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/react.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/react.svg" alt="js" style="max-width:100%;">
   </a>
     <a href="#" rel="nofollow">
-    <img src="icones/Framwworks/unity.svg" alt="js" style="max-width:100%;">
+    <img src="icones/Frameworks/unity.svg" alt="js" style="max-width:100%;">
   </a>
 </p>
 
