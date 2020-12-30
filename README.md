@@ -5,9 +5,9 @@
 - <h3>🌱 Essas são algumas Linguagens que já trabalhei e atualmente estudo</h3>
 <p align="center">
   <a href="#" rel="nofollow">
-    <img src="icones/c.svg" alt="JS" style="max-width:100%;">
+    <img src="icones/c.png" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
-    <img src="icones/c++.svg" alt="JS" style="max-width:100%;">
+    <img src="icones/c++.png" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/csharp.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
