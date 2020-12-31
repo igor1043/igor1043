@@ -100,6 +100,9 @@
         <a href="#" rel="nofollow">
     <img src="icones/desing/after.png" alt="js" style="max-width:100%;">
   </a>
+          <a href="#" rel="nofollow">
+    <img src="icones/desing/premiere.png" alt="js" style="max-width:100%;">
+  </a>
 
 </p>
 
@@ -109,7 +112,7 @@
     <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
   </a>
     <a href="https://sketchfab.com/igorviniciusfreitassouza/models" rel="nofollow">
-    <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
+    <img src="icones/hobby/sketchfab.png" alt="js" style="max-width:100%;">
   </a>
 
 </p>
