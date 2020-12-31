@@ -84,23 +84,32 @@
     <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
 </p>
 
--<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e Participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos realizados.</h4>
+-<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e Participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos.</h4>
 
 -<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 <p align="center">
   <a href="#" rel="nofollow">
-    <img src="icones/desing/photoshop.svg" alt="js" style="max-width:100%;">
+    <img src="icones/desing/photoshop.png" alt="js" style="max-width:100%;">
+  </a>
+    <a href="#" rel="nofollow">
+    <img src="icones/desing/vegas.png" alt="js" style="max-width:100%;">
+  </a>
+      <a href="#" rel="nofollow">
+    <img src="icones/desing/audition.png" alt="js" style="max-width:100%;">
+  </a>
+        <a href="#" rel="nofollow">
+    <img src="icones/desing/after.png" alt="js" style="max-width:100%;">
   </a>
 
 </p>
 
--<h4>E como hobby, estudo modelagem 3d utilizando o blender como programa principal, caso queira acompanhar meu trabalho acesse o Sketfab.</h4>
+-<h4>E como hobby, estudo modelagem 3d utilizando o blender como programa principal, caso queira acompanhar meu trabalho acesse o Sketchfab.</h4>
 <p align="center">
   <a href="#" rel="nofollow">
-    <img src="icones/hobby/blender.svg" alt="js" style="max-width:100%;">
+    <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
   </a>
     <a href="https://sketchfab.com/igorviniciusfreitassouza/models" rel="nofollow">
-    <img src="icones/hobby/blender.svg" alt="js" style="max-width:100%;">
+    <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
   </a>
 
 </p>
