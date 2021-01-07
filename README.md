@@ -84,7 +84,7 @@
     <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
 </p>
 
--<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos
+-<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos acessando o meu curriculo.
 esses projetos visualizando o meu curriculo.</h4>
 
 <p align="center">
