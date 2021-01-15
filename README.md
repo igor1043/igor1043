@@ -3,7 +3,7 @@
 - <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 -<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
-- <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas</h3> 
+- <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/c.png" alt="JS" style="max-width:100%;">
