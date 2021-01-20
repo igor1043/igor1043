@@ -3,7 +3,7 @@
 - <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 -<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
-## 😇 My Github Stats:
+## 😇 Minhas Estatísticas no GITHUB:
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor1043&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
