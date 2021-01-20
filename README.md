@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 </p>
-      <img src="http://igor1043-github.azurewebsites.net/api/VisitorHit?user=igor1043&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="http://igor1043-github.azurewebsites.net/api/VisitorHit?user=igor1043&repo=igor1043&countColor=%237B1E7A" />
 
 
 </p>
