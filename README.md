@@ -3,6 +3,11 @@
 - <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 -<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor1043&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
+</p>
+
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
   <a href="#" rel="nofollow">
