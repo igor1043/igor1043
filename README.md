@@ -11,8 +11,7 @@
 </p>
 </p>
       <img src="http://igor1043-github.azurewebsites.net/api/VisitorHit?user=igor1043&repo=igor1043&countColor=%237B1E7A" />
----
-
+___
 </p>
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
