@@ -128,6 +128,7 @@ esses projetos visualizando o meu curriculo.</h4>
   </a>
 </p>
 
+##  Outras Habilidades:
 
 <h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 <p align="center">
