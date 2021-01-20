@@ -5,7 +5,7 @@
 
  </h1>
 
-## 😇 Minhas Estatísticas no GITHUB:
+##  Minhas Estatísticas no GITHUB:
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor1043&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
@@ -97,6 +97,7 @@
     <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
 </p>
 
+##  Curriculo e Formações:
 -<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos acessando o meu curriculo.
 esses projetos visualizando o meu curriculo.</h4>
 
