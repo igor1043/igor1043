@@ -1,4 +1,4 @@
-<h2> Olá 👋<h2> 
+<h2> Olá 👋</h2> 
 <h3>📫 Onde você pode me encontrar:</h3>
 <p align="center">
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
