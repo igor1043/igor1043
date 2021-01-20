@@ -8,8 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 </p>
-[![Visits Badge](https://badges.pufler.dev/visits/igor1043/igor1043?style=for-the-badge)](https://github.com/igor1043/igor1043)
-![Repos Badge](https://badges.pufler.dev/repos/igor1043?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
+![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
+
 
 </p>
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
