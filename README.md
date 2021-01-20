@@ -1,7 +1,7 @@
-<h2> Olá 👋
+<h2> Olá 👋<h2> 
 
-- <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
--<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
+<h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
+<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
  </h1>
 
@@ -18,7 +18,7 @@
  ##  Trabalhos:
  
 ##  Habilidades e Estudos:
-- <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
+<h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/c.png" alt="JS" style="max-width:100%;">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-- <h3> Já desenvolvi e desenvolvo nas seguintes Frameworks. </h3>
+<h3> Já desenvolvi e desenvolvo nas seguintes Frameworks. </h3>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/angular.svg" alt="js" style="max-width:100%;">
@@ -75,7 +75,7 @@
   </a>
 </p>
 
-- <h3> E trabalho com algumas ferramentas como:</h3>
+<h3> E trabalho com algumas ferramentas como:</h3>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
@@ -100,7 +100,7 @@
 </p>
 
 ##  Curriculo e Formações:
--<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos acessando o meu curriculo.
+<h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos acessando o meu curriculo.
 esses projetos visualizando o meu curriculo.</h4>
 
 <p align="center">
@@ -110,7 +110,7 @@ esses projetos visualizando o meu curriculo.</h4>
 </p>
 
 
--<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
+<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/desing/photoshop.png" alt="js" style="max-width:100%;">
@@ -133,7 +133,7 @@ esses projetos visualizando o meu curriculo.</h4>
 
 </p>
 
--<h4>E como hobby, estudo modelagem 3d utilizando o blender como programa principal, caso queira acompanhar meu trabalho acesse o Sketchfab.</h4>
+<h4>E como hobby, estudo modelagem 3d utilizando o blender como programa principal, caso queira acompanhar meu trabalho acesse o Sketchfab.</h4>
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
@@ -146,7 +146,7 @@ esses projetos visualizando o meu curriculo.</h4>
 
 
 
-- <h3>📫 Onde você pode me encontrar:</h3>
+<h3>📫 Onde você pode me encontrar:</h3>
 <p align="center">
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
