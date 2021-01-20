@@ -15,7 +15,9 @@
  </h1>
  </h1>
  
-
+ ##  Trabalhos:
+ 
+##  Habilidades e Estudos:
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
   <a href="#" rel="nofollow">
