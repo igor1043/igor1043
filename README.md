@@ -1,5 +1,23 @@
 <h2> Olá 👋<h2> 
+<h3>📫 Onde você pode me encontrar:</h3>
+<p align="center">
+  <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
+    <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
+  </a>
+  <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
+    <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+    <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
+  </a>
+    <a href="https://twitter.com/Igorvin1043" rel="nofollow">
+    <img src="icones/Social/twitter.svg" alt="Instagram" style="max-width:100%;">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5577992053140&text=Meu%20perfil%20no%20Whatsapp" rel="nofollow">
+    <img src="icones/Social/whatsapp.svg" alt="Instagram" style="max-width:100%;">
+  </a>
 
+</p>
 <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 <h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
