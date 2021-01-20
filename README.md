@@ -13,6 +13,7 @@
 </p>
 
  </h1>
+ </h1>
  
 
 - <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
