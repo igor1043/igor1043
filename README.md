@@ -10,8 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 </p>
-[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
-![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
+      <img src="http://igor1043-github.azurewebsites.net/api/VisitorHit?user=igor1043&repo=github-visitors-badge&countColor=%237B1E7A" />
 
 
 </p>
