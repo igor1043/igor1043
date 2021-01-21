@@ -5,7 +5,7 @@
 <h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
 <h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igor1043)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igor1043)](https://github.com/igor1043/github-readme-stats)
 
  ##  📫 Onde você pode me encontrar:
 <p align="center">
