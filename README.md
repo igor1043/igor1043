@@ -6,7 +6,7 @@
 <h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
  </h1>
-<h3>📫 Onde você pode me encontrar:</h3>
+ ##  📫 Onde você pode me encontrar:
 <p align="center">
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
