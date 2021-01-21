@@ -38,7 +38,7 @@
  
 * 2018-2019
     * Freenlancer
-    * Enquadramento Funcional: Editor de Videos e Designer de Páginas
+    Enquadramento Funcional: Editor de Videos e Designer de Páginas
     
  
 ##  Habilidades e Estudos:
