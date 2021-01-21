@@ -34,13 +34,28 @@
 
 
  
- ##  Trabalhos:
+ ##  Experiências:
  
-* 2018-2019
-    * Freenlancer
-    Enquadramento Funcional: Editor de Videos e Designer de Páginas
+**Appmax** - Desenvolvedor Full Stack  
+*Maio de 2020 até o momento*
+> Atuação no desenvolvimento da plataforma de soluções de pagamentos para e-commerce integrada para otimizar a performance nas vendas.  
+Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
+> Desenvolvimento utilizando a metodologia ágil SCRUM utilizando Kanban para gerenciamento das atividades.  
+Utilizando PHP (5.6, 7.x), Lavarel, node.js, Vue.js, Redis, Elasticsearch, MySQL, ShellScript e Linux.  
+Trabalhando também com o conceito de eventos e filas.  
+Prezando por boas práticas de design e clean code, assim como a realização de code review.  
+Aplicação de testes com PHPUnit e Codecepetion e controle de versão com BitBucket e GitFlow.  
+Disponibilidade de ambientes utilizando Docker e Amazon AWS.  
     
- 
+ **DBC Company** - Desenvolverdor de Sistemas  
+*Julho de 2019 a Abril de 2020*
+
+> Cliente: Edenred/TicketLog  
+Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
+Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
+HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
+Controle de versão e Integração Contínua com Azure DevOps.
+
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
