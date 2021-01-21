@@ -30,8 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 
- </h1>
- </h1>
+
  
  ##  Trabalhos:
  
