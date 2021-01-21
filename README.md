@@ -164,8 +164,7 @@ esses projetos visualizando o meu curriculo.</h4>
 </p>
 
 
-
-<h3>📫 Onde você pode me encontrar:</h3>
+ ##  📫 Onde você pode me encontrar:
 <p align="center">
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg" alt="LinkedIn" style="max-width:100%;">
