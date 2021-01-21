@@ -36,9 +36,10 @@
  
  ##  Trabalhos:
  
-> 2018-2019
->Freelancer
->Equadramento Funcional: Editor de Videos e Designer de Páginas
+* 2018-2019
+    * Freenlancer
+    * Enquadramento Funcional: Editor de Videos e Designer de Páginas
+    
  
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
