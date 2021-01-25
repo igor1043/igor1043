@@ -38,10 +38,10 @@
  
 **ExcelCoaching** - Desenvolverdor de Sistemas  
 *Maio de 2020 até o momento*
-> Atuação no desenvolvimento da plataforma de soluções de pagamentos para e-commerce integrada para otimizar a performance nas vendas.  
+> Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
 > Desenvolvimento utilizando a metodologia ágil SCRUM utilizando Kanban para gerenciamento das atividades.  
-Utilizando PHP (5.6, 7.x), Lavarel, node.js, Vue.js, Redis, Elasticsearch, MySQL, ShellScript e Linux.  
+Utilizando Excel, ScriptCase.  
 Trabalhando também com o conceito de eventos e filas.  
 Prezando por boas práticas de design e clean code, assim como a realização de code review.  
 Aplicação de testes com PHPUnit e Codecepetion e controle de versão com BitBucket e GitFlow.  
