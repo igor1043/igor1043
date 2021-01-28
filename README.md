@@ -36,7 +36,7 @@
  
  ##  Experiências:
  
-**ExcelCoaching** - Desenvolverdor de Sistemas  
+**Meta Soluções** - Desenvolverdor de Sistemas  
 *Maio de 2020 até o momento*
 > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
