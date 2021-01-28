@@ -36,7 +36,7 @@
  
  ##  Experiências:
  
-**Meta Soluções** - Desenvolverdor de Sistemas  
+**Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*
 > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
@@ -47,7 +47,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 Aplicação de testes com PHPUnit e Codecepetion e controle de versão com BitBucket e GitFlow.  
 Disponibilidade de ambientes utilizando Docker e Amazon AWS.  
     
- **Blog do Anderson** - Desenvolverdor de Sistemas  
+ **Blog do Anderson** - Desenvolvedor de Sistemas  
 *Agosto de 2020 até o momento*
 
 > Cliente: Edenred/TicketLog  
@@ -56,7 +56,7 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
 Controle de versão e Integração Contínua com Azure DevOps.
 
- **Saborreto-GBI** - Desenvolverdor de Sistemas  
+ **Saborreto-GBI** - Desenvolvedor de Sistemas  
 *Julho de 2019 a Abril de 2020*
 
 > Cliente: Edenred/TicketLog  
@@ -65,7 +65,7 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
 Controle de versão e Integração Contínua com Azure DevOps.
 
- **Movimento Pro-Conquistas** - Desenvolverdor de Sistemas  
+ **Movimento Pro-Conquistas** - Desenvolvedor de Sistemas  
 *Janeiro de 2019 a Outubro de 2019*
 
 > Cliente:   
