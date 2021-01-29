@@ -34,8 +34,8 @@
 
 <a href="https://github.com/igor1043/github-stats">
 
-![](https://github.com/igor1043/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/igor1043/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/igor1043/igor1043/blob/master/generated/overview.svg)
+![](https://github.com/igor1043/igor1043/blob/master/generated/languages.svg)
  
 </a>
 
