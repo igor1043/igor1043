@@ -30,12 +30,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor1043&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
- <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+   ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+   ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
-</a>
 </p>
 
 
