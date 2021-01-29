@@ -32,12 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
 
-<a href="https://github.com/igor1043/github-stats">
 
-![](https://github.com/igor1043/igor1043/blob/master/generated/overview.svg)
-![](https://github.com/igor1043/igor1043/blob/master/generated/languages.svg)
- 
-</a>
 
  
  ##  Experiências:
