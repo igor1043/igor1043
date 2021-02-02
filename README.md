@@ -51,7 +51,7 @@ Disponibilidade de ambientes utilizando Docker e Amazon AWS.
  **Blog do Anderson** - Desenvolvedor de Sistemas  
 *Agosto de 2020 até o momento*
 
-> Cliente: Edenred/TicketLog  
+> Cliente: Anderson Oliveira  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
@@ -60,7 +60,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
  **Saborreto-GBI** - Desenvolvedor de Sistemas  
 *Julho de 2019 a Abril de 2020*
 
-> Cliente: Edenred/TicketLog  
+> Cliente: Pedro Henrique Moreira Alves 
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
@@ -69,7 +69,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
  **Movimento Pro-Conquistas** - Desenvolvedor de Sistemas  
 *Janeiro de 2019 a Outubro de 2019*
 
-> Cliente:   
+> Cliente: Itamar Figueredo
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
