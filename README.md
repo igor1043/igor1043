@@ -65,7 +65,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
 
 
  **Movimento Pro-Conquistas** - Desenvolvedor Web front-end  
-*Julho de 2019 a Abril de 2020*
+*Julho de 2019 a Abril de 2020*  
 Freelancer  
 
 > Cliente: Itamar Figueredo  
