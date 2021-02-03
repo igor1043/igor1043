@@ -57,7 +57,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
  **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*
 
-> Cliente: Pedro Henrique Moreira Alves 
+> Cliente: Pedro Henrique Moreira Alves  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
@@ -67,7 +67,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
  **Movimento Pro-Conquistas** - Desenvolvedor Web front-end  
 *Julho de 2019 a Abril de 2020*
 
-> Cliente: Itamar Figueredo
+> Cliente: Itamar Figueredo  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
