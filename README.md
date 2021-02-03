@@ -63,11 +63,8 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
 Controle de versão e Integração Contínua com Azure DevOps.
 
- **Movimento Pro-Conquistas** - Desenvolvedor Web front-end
-*Freelancer*
-*Janeiro de 2019 a Outubro de 2019*
 
-**Saborreto-GBI** - Desenvolvedor Web front-end  
+ **Movimento Pro-Conquistas** - Desenvolvedor Web front-end  
 *Julho de 2019 a Abril de 2020*
 
 > Cliente: Itamar Figueredo
