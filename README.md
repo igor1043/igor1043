@@ -45,7 +45,7 @@ Atuando também nas integrações com APIs de terceiros, na automatização de p
 Utilizando Exce e ScriptCase.    
 Prezando por boas práticas de design e clean code, assim como a realização de code review.  
     
- **Blog do Anderson** - Desenvolvedor de Sistemas  
+ **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*
 
 > Cliente: Anderson Oliveira  
@@ -54,7 +54,7 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
 Controle de versão e Integração Contínua com Azure DevOps.
 
- **Saborreto-GBI** - Desenvolvedor de Sistemas  
+ **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*
 
 > Cliente: Pedro Henrique Moreira Alves 
