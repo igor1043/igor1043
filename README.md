@@ -47,7 +47,7 @@ Utilizando Exce e ScriptCase.
 Prezando por boas práticas de design e clean code, assim como a realização de code review.  
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
-*Agosto de 2020 até o momento*
+*Agosto de 2020 até o momento*  
 Freelancer  
 
 > Cliente: Anderson Oliveira  
@@ -57,8 +57,8 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 Controle de versão e Integração Contínua com Azure DevOps.
 
  **Saborreto-GBI** - Desenvolvedor Web front-end   
-*Julho de 2019 a Abril de 2020*
-
+*Julho de 2019 a Abril de 2020*  
+Freelancer  
 > Cliente: Pedro Henrique Moreira Alves  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
