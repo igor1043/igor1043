@@ -66,7 +66,7 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 Controle de versão e Integração Contínua com Azure DevOps.
 
 
- **Movimento Pro-Conquistas** - Desenvolvedor Web front-end  
+ **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
 Freelancer  
 
