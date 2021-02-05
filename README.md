@@ -67,14 +67,11 @@ Controle de versão e Integração Contínua com Azure DevOps.
 
 
  **Movimento Pro-Conquistas** - Desenvolvedor Web front-end  
-*Julho de 2019 a Abril de 2020*  
+*Novembro de 2018 a Outubro de 2019*  
 Freelancer  
 
 > Cliente: Itamar Figueredo  
-Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
-Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
-HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
-Controle de versão e Integração Contínua com Azure DevOps.
+Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar posts e publicações em redes sociais com o intuito de aumnentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
 
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
