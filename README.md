@@ -71,7 +71,7 @@ Controle de versão e Integração Contínua com Azure DevOps.
 Freelancer  
 
 > Cliente: Itamar Figueredo  
-Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar posts e publicações em redes sociais com o intuito de aumnentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
+Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
 
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
