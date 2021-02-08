@@ -60,8 +60,8 @@ Controle de versão e Integração Contínua com Azure DevOps.
 *Julho de 2019 a Abril de 2020*  
 Freelancer  
 > Cliente: Pedro Henrique Moreira Alves  
-Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
-Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
+Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento.   
+desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
 Controle de versão e Integração Contínua com Azure DevOps.
 
