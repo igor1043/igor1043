@@ -157,7 +157,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
 ##  Curriculo e Formações:
 <h4>Durante a Graduação, participei de programas de Projeto de Extensão e Pesquisa, desenvolvendo e participando de atividades extracurriculares efetivamente. Fui responsável pela criação de alguns sites e da realizaçao de eventos. E você pode acompanhar todos acessando o meu curriculo.
-esses projetos visualizando o meu curriculo.</h4>
+</h4>
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1EJMvUpN4lM8REm0s7iAzuoSK9zHcEj_E?usp=sharing" rel="nofollow">
