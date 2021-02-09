@@ -220,4 +220,5 @@ esses projetos visualizando o meu curriculo.</h4>
     <img src="icones/Social/whatsapp.svg" alt="Instagram" style="max-width:100%;">
   </a>
 
+
 </p>
