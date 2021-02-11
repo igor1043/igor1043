@@ -27,11 +27,16 @@
   
 ##  Minhas Estatísticas no GITHUB:
 
+<center>
+  <table>
+    <tr>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor1043&show_icons=true&title_color=63cda9&icon_color=63cda9"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor1043&layout=compact&title_color=63cda9&hide=html"/>
 </p>
-
+    </tr>   
+  </table>
+</center> 
 
 
  
