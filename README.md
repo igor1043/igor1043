@@ -37,8 +37,6 @@
     </tr>   
   </table>
 </center> 
-
-
  
  ##  Experiências:
  
