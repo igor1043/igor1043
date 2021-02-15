@@ -79,7 +79,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo e você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
-  <a href="#" rel="nofollow">
+  <a href="https://github.com/igor1043/C_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/c.png" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/c++.png" alt="JS" style="max-width:100%;">
