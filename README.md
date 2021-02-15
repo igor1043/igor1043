@@ -10,7 +10,7 @@
  ##  📫 Onde você pode me encontrar:
 <p align="center">
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="LinkedIn" style="max-width:100%;">
+    <img src="icones/Social/gmail.svg">
   </a>
   <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
     <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
