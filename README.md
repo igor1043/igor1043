@@ -81,7 +81,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 <p align="center">
   <a href="https://github.com/igor1043/C_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/c.png" alt="JS" style="max-width:100%;">
-  </a>  <a href="#" rel="nofollow">
+  </a>  <a href="https://github.com/igor1043/C-_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/c++.png" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/csharp.svg" alt="JS" style="max-width:100%;">
