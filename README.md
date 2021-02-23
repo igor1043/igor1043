@@ -95,7 +95,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
     <img src="icones/php.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="https://github.com/igor1043/Dart_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/dart.svg" alt="JS" style="max-width:100%;">
-  </a>  <a href="#" rel="nofollow">
+  </a>  <a href="https://github.com/igor1043/Python_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/python.svg" alt="JS" style="max-width:100%;">
   </a>
 </p>
