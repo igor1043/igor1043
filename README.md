@@ -12,7 +12,6 @@
   <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg">
   </a>
- [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
   <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
     <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
   </a>
