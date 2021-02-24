@@ -2,7 +2,7 @@
 
 
 </p>
-<h3>Sou Engenheiro de Computação e aqui você encontrará alguns dos meus projetos realizados</h3>
+<h3>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos realizados</h3>
 <h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
 
 
