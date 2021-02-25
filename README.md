@@ -174,9 +174,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
 <h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
 <p align="center">
-   <a href="#" rel="nofollow">
-    <img src="icones/Excel.svg" alt="js" style="max-width:100%;">
-  </a>
+
   <a href="#" rel="nofollow">
     <img src="icones/desing/photoshop.png" alt="js" style="max-width:100%;">
   </a>
