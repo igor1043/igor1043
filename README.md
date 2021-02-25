@@ -66,7 +66,6 @@ Freelancer
 Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento.   
 desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
-Controle de versão e Integração Contínua com Azure DevOps.
 
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
