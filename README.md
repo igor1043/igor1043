@@ -46,7 +46,7 @@ Estágio
 > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
 > Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento das atividades.  
-Utilizando Exce e ScriptCase.    
+Utilizando Excel e ScriptCase.    
 Prezando por boas práticas de design e clean code, assim como a realização de code review.  
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
