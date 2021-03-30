@@ -128,7 +128,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/qt.svg" alt="js" style="max-width:100%;">
   </a>
-  <a href="#" rel="nofollow">
+  <a href="https://github.com/igor1043/Projetos-em-React" rel="nofollow">
     <img src="icones/Frameworks/react.svg" alt="js" style="max-width:100%;">
   </a>
     <a href="https://github.com/igor1043/ProjetosUNITY" rel="nofollow">
