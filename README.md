@@ -110,6 +110,9 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/bootstrap.svg" alt="js" style="max-width:100%;">
   </a>
+    <a href="#" rel="nofollow">
+    <img src="icones/excel.png" alt="js" style="max-width:100%;">
+  </a> 
    <a href="#" rel="nofollow">
     <img src="icones/Frameworks/flutter.svg" alt="js" style="max-width:100%;">
   </a> 
