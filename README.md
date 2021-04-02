@@ -26,7 +26,7 @@
   </a>  
  
 ## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/igor1043) 
-##  Minhas Estatísticas no GITHUB:
+
 
 <center>
   <table>
