@@ -23,8 +23,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=5577992053140&text=Meu%20perfil%20no%20Whatsapp" rel="nofollow">
     <img src="icones/Social/whatsapp.svg" alt="Instagram" style="max-width:100%;">
-  </a>
-  
+  </a>  
+ 
+## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/igor1043) 
 ##  Minhas Estatísticas no GITHUB:
 
 <center>
