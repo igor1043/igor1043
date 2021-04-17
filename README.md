@@ -42,8 +42,7 @@
  ##  Experiências:
 
 
-- - - - 
-<p align="center">   
+- - - -  
  
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 **Meta Soluções** - Desenvolvedor de Sistemas  
@@ -61,7 +60,6 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  </p>
 </details>    
 
-</p>
 
 - - - - 
     
