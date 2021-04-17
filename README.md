@@ -44,7 +44,7 @@
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 Estágio
-<details>
+
   <summary>Atuação:</summary>
   <p> 
  
@@ -55,7 +55,7 @@ Utilizando Excel e ScriptCase.
 Prezando por boas práticas de design e clean code, assim como a realização de code review. 
  
  </p>
-</details>
+
  
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
