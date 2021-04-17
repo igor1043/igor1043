@@ -55,7 +55,9 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  
  </p>
 </details>    
- ===================
+===================
+
+- - - - 
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
