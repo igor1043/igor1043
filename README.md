@@ -43,8 +43,7 @@
 
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
-Estágio 
-
+Estágio
 <details>
   <summary>Atuação:</summary>
   <p> 
@@ -61,7 +60,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
-Freelancer  
+Freelancer
 <details>
   <summary>Atuação:</summary>
   <p> 
@@ -76,7 +75,7 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 
  **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*  
-Freelancer  
+Freelancer
 <details>
   <summary>Atuação:</summary>
   <p> 
@@ -92,7 +91,7 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
-Freelancer  
+Freelancer
 <details>
   <summary>Atuação:</summary>
   <p> 
