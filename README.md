@@ -43,6 +43,7 @@
 
 
 - - - - 
+<p align="center">
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
@@ -59,7 +60,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  </p>
 </details>    
 
-
+</p>
 - - - - 
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
