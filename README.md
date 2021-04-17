@@ -46,18 +46,22 @@
 Estágio  
 
 
-Foldable text:
+Atuação:
 
 <details>
   <summary>Title 1</summary>
-  <p>> Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
-Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. </p>
-</details>
-
-
+  <p> 
+ 
+ > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
+Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade.
 > Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento das atividades.  
 Utilizando Excel e ScriptCase.    
-Prezando por boas práticas de design e clean code, assim como a realização de code review.  
+Prezando por boas práticas de design e clean code, assim como a realização de code review. 
+ 
+ </p>
+</details>
+
+ 
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
