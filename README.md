@@ -46,7 +46,7 @@
 Estágio 
 
 <details>
-  <summary>- Atuação:</summary>
+  <summary>Atuação:</summary>
   <p> 
  
  > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
@@ -63,11 +63,13 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 *Agosto de 2020 até o momento*  
 Freelancer  
 <details>
-  <summary>- Atuação:</summary>
+  <summary>Atuação:</summary>
   <p> 
+   
 > Cliente: Anderson Oliveira  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
-Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
+Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL.
+
  </p>
 </details>
 
@@ -76,14 +78,17 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 *Julho de 2019 a Abril de 2020*  
 Freelancer  
 <details>
-  <summary>- Atuação:</summary>
+  <summary>Atuação:</summary>
   <p> 
+   
 > Cliente: Pedro Henrique Moreira Alves  
 Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento.   
 desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
 HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase. 
+   
  </p>
-</details>
+</details>  
+
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
