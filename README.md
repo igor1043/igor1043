@@ -44,7 +44,7 @@
 
 - - - -  
  
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/ExcelCoaching.png)  
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 <details>
@@ -62,7 +62,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 
 
 - - - - 
-    
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/BlogAndersonI.png)      
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
 <details>
@@ -78,7 +78,7 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 
 
 - - - - 
-
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/saboretto.png)      
  **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*  
 <details>
@@ -95,7 +95,7 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 
 
 - - - - 
-
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/MovimentoProConquistas.png) 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
 <details>
