@@ -94,12 +94,15 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 *Novembro de 2018 a Outubro de 2019*  
 Freelancer  
 <details>
-  <summary>- Atuação:</summary>
+  <summary>Atuação:</summary>
   <p> 
+   
 > Cliente: Itamar Figueredo  
 Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
+
  </p>
-</details>
+</details>  
+
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo. Você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
