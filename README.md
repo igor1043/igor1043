@@ -54,7 +54,7 @@ Utilizando Excel e ScriptCase.
 Prezando por boas práticas de design e clean code, assim como a realização de code review. 
  
  </p>
-</details>
+</details>    
  
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
