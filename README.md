@@ -43,9 +43,8 @@
 
 
 - - - -  
- 
+ **Meta Soluções** - Desenvolvedor de Sistemas  
 ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/ExcelCoaching.png)  
-**Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 <details>
   <summary>Estágio</summary>
