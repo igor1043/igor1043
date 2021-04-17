@@ -41,6 +41,9 @@
  
  ##  Experiências:
 
+
+- - - - 
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 <details>
