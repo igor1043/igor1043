@@ -40,10 +40,11 @@
 </center> 
  
  ##  Experiências:
- 
+ ``` 
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
-Estágio  
+Estágio 
+``` 
 <details>
   <summary>Atuação:</summary>
   <p> 
