@@ -44,12 +44,8 @@
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 Estágio  
-
-
-Atuação:
-
 <details>
-  <summary>Title 1</summary>
+  <summary>Atuação:</summary>
   <p> 
  
  > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
