@@ -40,13 +40,13 @@
 </center> 
  
  ##  Experiências:
- ``` 
+
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 Estágio 
-``` 
+
 <details>
-  <summary>Atuação:</summary>
+  <summary>- Atuação:</summary>
   <p> 
  
  > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
@@ -57,35 +57,44 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  
  </p>
 </details>
-
  
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
 Freelancer  
-
+<details>
+  <summary>- Atuação:</summary>
+  <p> 
 > Cliente: Anderson Oliveira  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
 Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
-
+ </p>
+</details>
 
 
  **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*  
 Freelancer  
+<details>
+  <summary>- Atuação:</summary>
+  <p> 
 > Cliente: Pedro Henrique Moreira Alves  
 Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento.   
 desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
-HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
-
+HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase. 
+ </p>
+</details>
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
 Freelancer  
-
+<details>
+  <summary>- Atuação:</summary>
+  <p> 
 > Cliente: Itamar Figueredo  
 Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
-
+ </p>
+</details>
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo. Você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
