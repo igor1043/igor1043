@@ -55,6 +55,8 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  
  </p>
 </details>    
+
+
 - - - - 
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
@@ -69,6 +71,8 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 
  </p>
 </details>
+
+
 - - - - 
 
  **Saborreto-GBI** - Desenvolvedor Web front-end   
@@ -84,6 +88,8 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
    
  </p>
 </details>  
+
+
 - - - - 
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
@@ -97,7 +103,9 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
  </p>
 </details>  
-- - - -   
+
+
+- - - - 
 
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo. Você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
