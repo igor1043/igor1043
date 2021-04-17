@@ -62,8 +62,8 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 
 
 - - - - 
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/BlogAndersonI.png)      
  **Blog do Anderson** - Desenvolvedor Web front-end   
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/BlogAndersonI.png)   
 *Agosto de 2020 até o momento*  
 <details>
   <summary>Freelancer</summary>
@@ -78,8 +78,8 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 
 
 - - - - 
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/saboretto.png)      
  **Saborreto-GBI** - Desenvolvedor Web front-end   
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/saboretto.png)      
 *Julho de 2019 a Abril de 2020*  
 <details>
   <summary>Freelancer</summary>
@@ -95,8 +95,8 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
 
 
 - - - - 
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/MovimentoProConquistas.png) 
- **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
+ **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web   
+ ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/MovimentoProConquistas.png)  
 *Novembro de 2018 a Outubro de 2019*  
 <details>
   <summary>Freelancer</summary>
