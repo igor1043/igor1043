@@ -55,15 +55,12 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  
  </p>
 </details>    
-===================
-
 - - - - 
     
  **Blog do Anderson** - Desenvolvedor Web front-end   
 *Agosto de 2020 até o momento*  
-Freelancer
 <details>
-  <summary>Atuação:</summary>
+  <summary>Freelancer</summary>
   <p> 
    
 > Cliente: Anderson Oliveira  
@@ -72,13 +69,12 @@ Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusi
 
  </p>
 </details>
-
+- - - - 
 
  **Saborreto-GBI** - Desenvolvedor Web front-end   
 *Julho de 2019 a Abril de 2020*  
-Freelancer
 <details>
-  <summary>Atuação:</summary>
+  <summary>Freelancer</summary>
   <p> 
    
 > Cliente: Pedro Henrique Moreira Alves  
@@ -88,13 +84,12 @@ HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.
    
  </p>
 </details>  
-
+- - - - 
 
  **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web    
 *Novembro de 2018 a Outubro de 2019*  
-Freelancer
 <details>
-  <summary>Atuação:</summary>
+  <summary>Freelancer</summary>
   <p> 
    
 > Cliente: Itamar Figueredo  
@@ -102,6 +97,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
  </p>
 </details>  
+- - - -   
 
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo. Você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
