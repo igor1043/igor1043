@@ -44,6 +44,15 @@
 **Meta Soluções** - Desenvolvedor de Sistemas  
 *Maio de 2020 até o momento*  
 Estágio  
+
+
+Foldable text:
+
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+
 > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
 > Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento das atividades.  
