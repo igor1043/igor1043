@@ -105,6 +105,9 @@
 
 <h3> E trabalho com algumas ferramentas como:</h3>
 <p align="center">
+   <a href="https://github.com/igor1043/Projetos_MySql" rel="nofollow">
+    <img src="icones/tools/mysql.svg" alt="js" style="max-width:100%;">
+  </a>
   <a href="#" rel="nofollow">
     <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
   </a>
