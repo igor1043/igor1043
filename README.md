@@ -180,7 +180,19 @@
 
  ##  Experiências:
 
+- - - -  
+ **facilita.tech** - Desenvolvedor Mobile  
+![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/facilita.png)  
+*Junho de 2021 até o momento*  
+<details>
+  <summary>Estágio</summary>
+  <p> 
+ 
 
+> Atuação na análise das necessidades do cliente, planejamento dos aplicativos, implantação de arquitetura, ferramentas e recursos, realização e configuração de testes.
+ 
+ </p>
+</details>   
 - - - -  
  **Meta Soluções** - Desenvolvedor de Sistemas  
 ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/ExcelCoaching.png)  
