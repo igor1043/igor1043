@@ -193,10 +193,10 @@
  
  </p>
 </details>   
+
+
+
 - - - -  
-
-
-
  **Meta Soluções** - Desenvolvedor de Sistemas  
 ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/ExcelCoaching.png)  
 *Maio de 2020 até o momento*  
