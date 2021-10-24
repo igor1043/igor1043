@@ -179,11 +179,11 @@
  ##  Experiências:
 
 - - - -  
- **Facilita.tech** - Desenvolvedor Mobile  
+ **Facilita.tech** - Desenvolvedor Android  
 ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/facilita.png)  
 *Junho de 2021 até o momento*  
 <details>
-  <summary>Estágio</summary>
+  <summary>Desenvolvedor Android Junior</summary>
   <p> 
  
 
