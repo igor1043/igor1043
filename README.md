@@ -179,6 +179,7 @@
  
 
 > Atuação na análise das necessidades do cliente, planejamento dos aplicativos, implantação de arquitetura, ferramentas e recursos, realização e configuração de testes.
+   Baseando-se na arquitetura MVVM e MVC com o uso do Retrofit e aplicando tecnicas de CleanCode.
  
  </p>
 </details>   
