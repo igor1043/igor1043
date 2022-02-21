@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
     <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
   </a>
-  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/igor-freitas-souza-004320140/" rel="nofollow">
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
   </a>
     <a href="https://twitter.com/Igorvin1043" rel="nofollow">
