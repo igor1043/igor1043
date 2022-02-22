@@ -59,9 +59,6 @@
   </a>  <a href="https://github.com/igor1043/Python_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/python.svg" alt="JS" style="max-width:100%;">
   </a>
-   </a>  <a href="" rel="nofollow">
-    <img src="icones/dev/languages/go.svg" alt="JS" style="max-width:100%;">
-  </a>
 </p>
 
 <h3> Já desenvolvi e desenvolvo nas seguintes Frameworks. </h3>
