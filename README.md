@@ -97,20 +97,10 @@
   <a href="#" rel="nofollow">
     <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
   </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/bash.svg" alt="js" style="max-width:100%;">
-  </a>
+
    <a href="#" rel="nofollow">
     <img src="icones/Tools/eclipse.svg" alt="js" style="max-width:100%;">
   </a> 
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/powershell.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/visualstudio.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
