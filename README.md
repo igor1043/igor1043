@@ -74,9 +74,6 @@
    <a href="https://github.com/igor1043/Projetos-em-Flutter" rel="nofollow">
     <img src="icones/Frameworks/flutter.svg" alt="js" style="max-width:100%;">
   </a> 
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/ionic.svg" alt="js" style="max-width:100%;">
-  </a>
 
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/nodejs.svg" alt="js" style="max-width:100%;">
